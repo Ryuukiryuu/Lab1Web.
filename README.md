@@ -32,7 +32,7 @@ Setiap `<p>` menghasilkan blok paragraf baru dengan jarak otomatis di atas dan b
 Jika menggunakan `<br>` hasilnya hanya pindah baris, tanpa jarak tambahan. Misalnya jika menulis alamat atau puisi:
 
 ```html
-<p>Jl. Mawar No. 5<br>Kecamatan Bekasi Timur<br>Kota Bekasi</p>
+<p>UNIVERSITAS PELITA BANGSA<br>MEGAH<br>CIKARANG</p>
 ```
 
 **Kesimpulan:** `<p>` digunakan untuk paragraf utuh (struktur teks), sedangkan `<br>` hanya untuk pindah baris di dalam paragraf.
