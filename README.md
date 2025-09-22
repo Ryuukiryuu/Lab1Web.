@@ -29,7 +29,7 @@ Dalam **`praktikum_benar.html`**, paragraf ditulis dengan `<p>`:
 
 Setiap `<p>` menghasilkan blok paragraf baru dengan jarak otomatis di atas dan bawah.
 
-Jika menggunakan `<br>` hasilnya hanya pindah baris, tanpa jarak tambahan. Misalnya jika menulis alamat atau puisi:
+Jika menggunakan `<br>` hasilnya hanya pindah baris, tanpa jarak tambahan. Contoh:
 
 ```html
 <p>UNIVERSITAS PELITA BANGSA<br>MEGAH<br>CIKARANG</p>
