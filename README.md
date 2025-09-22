@@ -6,8 +6,6 @@ Dosen Pengampu	:	Agung Nugroho, S.Kom., M.Kom
 
 TUGAS PRAKTIKUM HTML DASAR
 
-
-
 Jawab Pertanyaan Berikut :
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag? 
